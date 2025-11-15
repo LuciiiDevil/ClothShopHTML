@@ -13,17 +13,17 @@ The project simulates a full shopping experience, from browsing the homepage to 
 
 The main page is a feature-rich single-page layout that includes:
 
-    Header & Navigation: A clean navigation bar with links to Home, Products, About, Contact, and Account, plus a shopping cart icon.
+Header & Navigation: A clean navigation bar with links to Home, Products, About, Contact, and Account, plus a shopping cart icon.
 
-    Hero Section: A strong visual area with a bold headline: "Timeless Fashion, Unmatched Quality." and a primary call-to-action "Explore Now" which links to the dedicated Other Pages/Explornow.html.
+Hero Section: A strong visual area with a bold headline: "Timeless Fashion, Unmatched Quality." and a primary call-to-action "Explore Now" which links to the dedicated Other Pages/Explornow.html.
 
-    Featured Categories: Shows three core category images (cat1.jpg, cat2.jpg, cat3.jpg).
+Featured Categories: Shows three core category images (cat1.jpg, cat2.jpg, cat3.jpg).
 
-    Product Displays: Dedicated sections for New Arrivals, a featured Exclusive Offer (Casual Sweatpants), Men's, Women's, and Kid's products.
+Product Displays: Dedicated sections for New Arrivals, a featured Exclusive Offer (Casual Sweatpants), Men's, Women's, and Kid's products.
 
-    Reviews/Testimonials: A section to display customer feedback.
+Reviews/Testimonials: A section to display customer feedback.
 
-    Brands & Footer: Displays partner logos and a comprehensive footer with useful links, social media, and app download links.
+Brands & Footer: Displays partner logos and a comprehensive footer with useful links, social media, and app download links.
 
 2. Multi-Page Navigation
 
