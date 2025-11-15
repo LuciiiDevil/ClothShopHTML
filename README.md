@@ -1,5 +1,7 @@
 [Click here to get the full project](https://www.dropbox.com/scl/fo/yl90wp7n005s40plrqvxe/AHw2MBJM7QIejwqm-TEM6YY?rlkey=y1flqq2qnbngymlbtw4y753fu&st=pwimtmkr&dl=0)
-#🛍️ Velvet Vogue: Interactive Retail E-commerce Front-End
+
+
+🛍️ Velvet Vogue: Interactive Retail E-commerce Front-End
 
 This project is a static, multi-page retail clothing shop front-end named Velvet Vogue. It showcases proficiency in fundamental web development using HTML5 for structure and CSS3 for styling, adhering to modern web design practices. The site is fully structured to serve as the foundation for a complete e-commerce platform.
 
