@@ -29,4 +29,11 @@ Brand Logos: Display of partner brands with clickable links.
 
 Footer: Includes app download links, useful links, and social media connections.
 
-📁 Folder Structure
+
+💻 Technologies Used
+
+HTML5 – Structure and content.
+
+CSS3 – Styling and layout.
+
+Google Fonts (Poppins) – Typography.
